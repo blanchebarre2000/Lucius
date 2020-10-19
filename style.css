@@ -1,0 +1,26 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: black;
+}
+
+.image-bebe{
+  width : 90%;
+}
+.image-chaise {
+  width : 90%;
+}
+
+.image-genoux {
+  width : 90%;
+}
+#img {
+  width : 50%;
+  margin : 3em;
+}
